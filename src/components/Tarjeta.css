@@ -1,0 +1,34 @@
+.contenedor-tarjeta {
+    padding: 5px;
+    width: 100%;
+    border-radius: 8px;
+    background-color: #29292E;
+    display: flex;
+    align-content: space-between;
+}
+
+.contenedor-tarjeta img {
+    width: 67px;
+    height: 67px;
+    top: 8px;
+    left: 8px;
+    gap: 0px;
+    border-radius: 6px;
+    opacity: 0px;
+}
+
+.contenedor-detalles {
+    margin-top: 2%;
+    padding: 10px;
+}
+
+.contenedor-detalles h4,
+p {
+    margin: 0;
+}
+
+.contenedor-boton img {
+    margin-top: 50%;
+    height: 30px;
+    width: 30px;
+}
